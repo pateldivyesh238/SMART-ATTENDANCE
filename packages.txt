@@ -1,0 +1,4 @@
+cmake
+build-essential
+libgl1
+pkg-config
